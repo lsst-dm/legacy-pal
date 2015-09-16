@@ -1,0 +1,2 @@
+pathPrepend(LD_LIBRARY_PATH, ${PRODUCT_DIR}/lib)
+pathPrepend(DYLD_LIBRARY_PATH, ${PRODUCT_DIR}/lib)
